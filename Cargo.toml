@@ -1,0 +1,13 @@
+[package]
+name = "nudia"
+version = "0.1.0"
+edition = "2021"
+authors = ["shellrow <shellrow@protonmail.com>"]
+description = "[WIP] Network Diagnostics tool"
+repository = "https://github.com/shellrow/nudia"
+readme = "README.md"
+keywords = ["network"]
+categories = ["network-programming"]
+license = "MIT"
+
+[dependencies]
